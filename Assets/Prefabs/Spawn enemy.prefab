@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1616854455716324913
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3986116099443208235}
+  - component: {fileID: 821000368558482191}
+  m_Layer: 0
+  m_Name: Spawn enemy
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3986116099443208235
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1616854455716324913}
+  m_LocalRotation: {x: -0, y: -0, z: 0.7071068, w: 0.7071068}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 5, y: 5, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &821000368558482191
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1616854455716324913}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d410083f63440034aa0d1906eb56f8aa, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  bug1: {fileID: 3271581361165456337, guid: 9e5a94a25464571488c57071ddeacefb, type: 3}
+  bug2: {fileID: 3271581361165456337, guid: b9bbb9b420f31564582f5fd06a8a21d9, type: 3}
+  bug3: {fileID: 3271581361165456337, guid: 55686b38d8c1d8e4ba4de3870b0abd55, type: 3}
+  bug4: {fileID: 3271581361165456337, guid: 1b6b4d66a5f051143b0fba688bd1db7b, type: 3}
+  bug5: {fileID: 3271581361165456337, guid: 7a414fba58562ea419b559d923cd4807, type: 3}
+  bug6: {fileID: 3271581361165456337, guid: 83f06370f164e0044b251d5ef411f693, type: 3}
+  boss1: {fileID: 3271581361165456337, guid: 24757c5dbe2d5df409a14532ad659b0c, type: 3}
+  boss2: {fileID: 3271581361165456337, guid: cbc537468a82d024ab21711e37244a08, type: 3}
