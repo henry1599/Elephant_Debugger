@@ -1,0 +1,14 @@
+26/4 : 
+- Hiếu tạo project và hoàn thành tính năng xoay nhân vật theo con trỏ chuột
+- Hiếu push project lên github : https://github.com/GameDevHCMUT/Project_1_Team_2
+- Phân công mọi người tạo nhân vật và phân công tính năng ( viết Script ) cho từng người
+28/4 :
+- Hiển hoàn thành phần quái và script di chuyển cho quái
+- Hiếu xử lý va chạm với quái
+30/4 :
+- Các tính năng đã hoàn thành:
+	+ Xoay nhân vật theo hướng mũi tên
+	+ Chuột trái để bắn đạn dội thường
+	+ Chuột phải để bắn đạn xuyên thường
+	+ Bắn được 20 phát đạn thường sẽ kích hoạt đạn đặc biệt
+	+ Thời gian bắn đạn đặc biệt là 5s
